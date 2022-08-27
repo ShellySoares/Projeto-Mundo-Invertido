@@ -1,6 +1,7 @@
 <p align="center">
     <img width="400" src="./assets/images/banner/logo.svg">
-    <img width="400" src="./assets/images/banner/165.gif">
+  <p align="center">
+  <img width="800" src="./assets/images/banner/165.gif">
 </p>
 
 # landing page Mundo Invertido
